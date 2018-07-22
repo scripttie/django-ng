@@ -8,7 +8,7 @@ app.controller 'AppController', ['$scope', '$http', ($scope, $http) ->
         body: 'This is the first sample post'
     ,
         author:
-            username: 'Karen'
+            username: 'Buddah'
         title: 'Sample Post #2'
         body: 'This is another sample post'
     ]
