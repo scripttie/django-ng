@@ -11,5 +11,11 @@ app.controller 'AppController', ['$scope', '$http', ($scope, $http) ->
             username: 'Buddah'
         title: 'Sample Post #2'
         body: 'This is another sample post'
+    ,
+        author:
+            username: 'Bradley'
+        title: 'Developing on Eos'
+        body: 'Getting started on node eos'
+        
     ]
 ]
