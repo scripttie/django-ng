@@ -1,6 +1,8 @@
 # Django API with Django Rest Framework and AngularJS-Resource
 
-This sample project is the companion of a [blog post](http://kevinastone.github.io/getting-started-with-django-rest-framework-and-angularjs.html) on how to get started with Django Rest Framework and AngularJS.
+This sample project is the companion of a [blog post](http://kevinastone.github.io/getting-started-with-django-rest-framework-and-angularjs.html) on how to get started with Django Rest Framework and AngularJS.  
+  
+The blog was found to be outdated. Check regularly to confirm updated content.  
 
 ## Dependencies
 
